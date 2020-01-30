@@ -2,8 +2,8 @@
 //  MasterViewController.swift
 //  Favorite City
 //
-//  Created by Arnav Parikh on 1/29/19.
-//  Copyright © 2019 Arnav Parikh. All rights reserved.
+//  Created by Joey Young on 1/29/20.
+//  Copyright © 2020 Joey Young. All rights reserved.
 //
 
 import UIKit
